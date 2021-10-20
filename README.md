@@ -17,7 +17,7 @@
     <img src="public/favicon.ico" alt="Logo" width="80">
   </a>
 
-  <h1 align="center">Tripvisor</h1>
+  <h1 align="center">CryptoDesk</h1>
 
   <p align="center">
     CryptoDesk is a one-stop information site for all things Cryptocurrency built in React.js with graphing done with Chart.js
